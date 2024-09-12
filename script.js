@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ],
         bebida: [
             { src: 'Imagems/bebida_1.png', nome: 'Água', preco: 'R$ 2,00', quantidade: '23 unidades', peso: '500ml' },
-            { src: 'Imagems/bebida_2.png', nome: 'Guaraná', preco: 'R$ 8,00', quantidade: '12 unidades', peso: '2l' },
+            { src: 'Imagems/bebida_2.png', nome: 'Guaraná', preco: 'R$ 4,00', quantidade: '12 unidades', peso: '2l' },
             { src: 'Imagems/bebida_3.png', nome: 'Café', preco: 'R$ 2,00', quantidade: '21 unidades', peso: '250ml' }
         ],
         artesanato: [
