@@ -310,7 +310,7 @@ button:hover {
 
 .quadradologin{
   position: absolute;
-            top: 80%;
+            top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
             background:#474747;
@@ -322,7 +322,7 @@ button:hover {
 
 .quadradotrocasenha{
   position: absolute;
-            top: 70%;
+            top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
             background:#474747;
@@ -334,7 +334,7 @@ button:hover {
 
 .quadradotelainicial{
   position: absolute;
-            top: 90%;
+            top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
             background:#474747;
@@ -396,7 +396,7 @@ button:hover {
 }
 .quadradocadrastar{
   position: absolute;
-            top: 85%;
+            top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
             background:#474747;
